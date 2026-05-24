@@ -2,6 +2,8 @@
 
 A lightweight, autonomous coding agent that runs locally using [Ollama](https://ollama.com/). It interacts directly with your real filesystem to read, write, patch, search, and execute code based on natural language instructions.
 
+![RAG](https://www.bandt.com.au/information/uploads/2025/05/ChatGPT-Image-May-22-2025-10_32_44-AM-860x573.png)
+
 ## Features
 - **Autonomous Execution**: Step-by-step reasoning with tool usage until task completion.
 - **Speculative Pipelining**: Emit multiple actions in a single turn (e.g., write a file and run it immediately for verification).
